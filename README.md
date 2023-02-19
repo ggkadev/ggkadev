@@ -5,7 +5,7 @@
   </h1>
   
   <p align="center">
-   Sou estudante e futura desenvolvedora Front-end! ou Back-end, o mundo é muito doido pra dizer que vai ser algo com certeza, tudo é uma possibilidade em aberto e eu amo aprender coisas novas
+   Sou estudante e futura desenvolvedora Front-end!
   </p>
   
   <p align="center">
