@@ -16,8 +16,9 @@
 
 <div align="center">
   <a href="https://github.com/ggkadev">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ggkadev&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggkadev&theme=dracula&hide_border=false&&layout=compact"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggkadev&theme=dracula&hide_border=false&&layout=compact"/>
+   <br>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ggkadev&theme=dracula" alt="mystreak"/>
   </a>
 </div>
 
