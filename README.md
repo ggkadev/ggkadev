@@ -18,7 +18,6 @@
   <a href="https://github.com/ggkadev">
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggkadev&theme=dracula&hide_border=false&&layout=compact"/>
    <br>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ggkadev&theme=dracula" alt="mystreak"/>
   </a>
 </div>
 
