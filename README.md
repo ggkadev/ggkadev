@@ -5,7 +5,7 @@
   </h1>
   
   <p align="center">
-   Sou estudante e futura desenvolvedora Front-end!
+   Sou estudante e futura desenvolvedora! ADS 5/5
   </p>
   
   <p align="center">
