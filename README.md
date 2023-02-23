@@ -40,6 +40,5 @@ Que bom que você está por aqui :) venha e pegue um café, vou contar um pouqui
  <br>
 
 
-  
- ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+
 
