@@ -26,11 +26,6 @@ Que bom que você está por aqui :) venha e pegue um café, vou contar um pouqui
  <div align="left">
   <a href="https://github.com/ggkadev">
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggkadev&theme=dracula&hide_border=false&&layout=compact"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    &nbsp;
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ggkadev&theme=dracula" alt="mystreak"/>
   </a>
 
