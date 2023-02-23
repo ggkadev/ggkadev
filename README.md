@@ -6,8 +6,6 @@
  
  <img align="right" width="33%" src="https://i.pinimg.com/originals/01/93/9c/01939c66a89fc3f31be046a5e65fd855.gif"> 
     
- &nbsp;&nbsp;&nbsp;&nbsp;
-  
   <p>
 Que bom que você está por aqui :) venha e pegue um café, vou contar um pouquinho sobre mim!
     
@@ -26,11 +24,11 @@ Que bom que você está por aqui :) venha e pegue um café, vou contar um pouqui
  <div align="left">
   <a href="https://github.com/ggkadev">
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggkadev&theme=dracula&hide_border=false&&layout=compact"/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ggkadev&theme=dracula" alt="mystreak"/>
   </a>
+   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ggkadev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+</div>
+ 
 
-</div>
-</div>
   
  <br>
 <div align="center" valign="top"><br>
